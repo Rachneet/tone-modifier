@@ -209,6 +209,7 @@ def setup_argument_parser() -> argparse.ArgumentParser:
         "--few_shot_strategy",
         type=FewShotStrategySelector,
         default=FewShotStrategySelector.BALANCED,
+        choices=[fs.value for fs in FewShotStrategySelector],
         help="Strategy for selecting few-shot examples"
     )
 

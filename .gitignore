@@ -8,3 +8,6 @@ tone_transformation.log
 .cache
 **/__pycache__
 .idea
+
+# Ignore all generated transformed files with timestamps
+data/*_transformed_*_[0-9][0-9][0-9][0-9][0-9][0-9][0-9][0-9]_[0-9][0-9][0-9][0-9][0-9][0-9]*.json
