@@ -14,6 +14,12 @@ conda activate tone_gpt
 
 # install the requirements
 pip install -r requirements.txt
+
+# Create a .env file in the root directory and add your Azure OpenAI API key:
+echo "AZURE_API_KEY=your_openai_api_key" > .env
+
+# Download Spacy model for similarity evaluation
+python -m spacy download en_core_web_lg
 ```
 
 
@@ -131,8 +137,6 @@ python src/evaluate.py --results_path ./data/simple_transformed.json --metric le
 
 
 # Example for similarity evaluation
-# You need Spacy model installed for this
-python -m spacy download en_core_web_lg
 python src/evaluate.py --results_path ./data/simple_transformed.json --metric similarity
 
 # Expected output format:
