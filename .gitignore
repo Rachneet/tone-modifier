@@ -1,2 +1,10 @@
+# secrets
 .env
+
+# logs
 tone_transformation.log
+
+# cache
+.cache
+__pycache__
+.idea
