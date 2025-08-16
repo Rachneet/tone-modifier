@@ -6,5 +6,5 @@ tone_transformation.log
 
 # cache
 .cache
-__pycache__
+**/__pycache__
 .idea
