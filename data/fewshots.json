@@ -1,0 +1,162 @@
+{
+    "safety": {
+        "default": [
+            {
+                "title": "Introduction to Occupational Safety",
+                "text": "Occupational safety includes all measures aimed at protecting employees from hazards, injuries, and health risks in the workplace. It is not only a legal requirement in most countries but also a crucial part of building a healthy and productive work environment. A strong safety culture helps prevent accidents, reduces the risk of occupational illnesses, and ensures that employees can perform their work without unnecessary danger. Effective occupational safety also boosts morale, reduces absenteeism, and increases overall productivity."
+            },
+            {
+                "title": "Identifying Workplace Hazards",
+                "text": "Hazards in the workplace can be physical, chemical, biological, or psychological in nature. Common examples include slippery floors, unguarded machinery, exposure to hazardous substances, loud noise, or high levels of stress. Identifying these hazards early is essential to implementing timely countermeasures. Risk assessments, safety inspections, and employee feedback are vital tools in spotting potential dangers. By understanding where hazards exist, organizations can put preventive systems in place before an incident occurs."
+            },
+            {
+                "title": "Personal Protective Equipment (PPE)",
+                "text": "Personal Protective Equipment, or PPE, such as safety shoes, helmets, gloves, ear protection, and safety glasses, plays a critical role in minimizing injury risk. The selection of PPE should be based on a thorough hazard assessment and must meet safety standards set by national or international guidelines. PPE should be inspected regularly to ensure it is in good condition and replaced immediately if damaged. Furthermore, employees should be trained in the correct use, maintenance, and limitations of their PPE to ensure maximum effectiveness."
+            },
+            {
+                "title": "Emergency Preparedness and First Aid",
+                "text": "Every workplace should have clear and accessible emergency plans that cover various scenarios such as fires, chemical spills, or medical emergencies. Employees need to know where first aid kits, emergency exits, fire extinguishers, and assembly points are located. First aid responders should be trained and readily available during working hours. Regular drills and simulations help employees remain calm and act quickly during an actual emergency. The better prepared the workforce, the higher the chance of minimizing harm when accidents occur."
+            },
+            {
+                "title": "Responsibility and Building a Safety Culture",
+                "text": "Occupational safety is a shared responsibility between employers and employees. Employers are responsible for providing a safe working environment, proper equipment, and adequate training. Employees, on the other hand, must follow safety procedures, use protective equipment correctly, and report hazards promptly. A healthy safety culture encourages open communication, where employees feel comfortable raising concerns without fear of retaliation. Regular safety meetings, ongoing training programs, and recognition of safe behavior all contribute to creating an environment where safety is valued and integrated into everyday work practices."
+            }
+        ],
+        "direct_language_version": [
+            {
+                "title": "Introduction to Occupational Safety",
+                "text": "You play a key role in keeping yourself and others safe at work. Occupational safety is not just a rule—it's about making sure you go home healthy every day. Follow safety procedures, wear the right protective gear, and speak up if you notice a hazard. A safe workplace starts with you taking action."
+            },
+            {
+                "title": "Identifying Workplace Hazards",
+                "text": "Look carefully at your surroundings. Are there slippery floors, exposed machinery, dangerous substances, or loud noises? These hazards can harm you if they’re ignored. Spot them early and report them immediately so action can be taken before anyone gets hurt."
+            },
+            {
+                "title": "Personal Protective Equipment (PPE)",
+                "text": "Always use your PPE exactly as instructed—whether it’s safety shoes, helmets, gloves, ear protection, or safety glasses. Check your gear before every shift to make sure it’s in good condition. If it’s damaged, replace it right away. Your PPE is your last line of defense, so treat it seriously."
+            },
+            {
+                "title": "Emergency Preparedness and First Aid",
+                "text": "Know where the emergency exits, first aid kits, and fire extinguishers are located in your workplace. Take part in every safety drill—it could save your life. In an emergency, act fast, stay calm, and follow the emergency plan exactly."
+            },
+            {
+                "title": "Responsibility and Building a Safety Culture",
+                "text": "You set an example for safety by how you work. Report unsafe conditions immediately, encourage your team to follow safety rules, and never ignore a risk. Safety is everyone’s job, and when we all contribute, we keep each other safe."
+            }
+        ],
+        "simple_language_version": [
+            {
+                "title": "Introduction to Occupational Safety",
+                "text": "Safety at work means making sure you and your coworkers don’t get hurt. Follow the rules, wear your safety gear, and tell someone if you see a problem. When everyone helps, the workplace stays safe for all."
+            },
+            {
+                "title": "Identifying Workplace Hazards",
+                "text": "Look around your work area. Are the floors slippery, machines open, or is there loud noise? These things can be dangerous. Tell your supervisor right away so they can fix it."
+            },
+            {
+                "title": "Personal Protective Equipment (PPE)",
+                "text": "Wear your safety shoes, helmet, gloves, ear protection, or glasses whenever needed. Check them before you use them. If something is broken or old, ask for a new one so you stay protected."
+            },
+            {
+                "title": "Emergency Preparedness and First Aid",
+                "text": "Know where the exits, first aid kits, and fire extinguishers are. Join in all safety drills. If there’s an emergency, stay calm, follow the steps, and go to the safe place."
+            },
+            {
+                "title": "Responsibility and Building a Safety Culture",
+                "text": "Help keep the workplace safe by following the rules and speaking up if you see danger. Remind others to be safe too. When everyone cares about safety, fewer accidents happen."
+            }
+        ]
+    },
+    "data": {
+        "default": [
+            {
+                "title": "Introduction to Data Protection",
+                "text": "Data protection encompasses all measures designed to safeguard personal and sensitive information from unauthorized access, misuse, or loss. It ensures compliance with legal regulations such as the GDPR and builds trust with customers, employees, and partners. A strong approach to data protection not only prevents legal consequences but also strengthens an organization’s reputation and operational resilience."
+            },
+            {
+                "title": "Identifying and Classifying Data",
+                "text": "An essential step in data protection is knowing what data you hold and how sensitive it is. This includes personal information such as names, addresses, and identification numbers, as well as confidential business data. By categorizing data according to its sensitivity, organizations can apply the appropriate level of protection and allocate resources more effectively."
+            },
+            {
+                "title": "Access Control and Data Security Measures",
+                "text": "Protecting data requires restricting access to only those individuals who need it for their work. Strong password policies, multi-factor authentication, and encrypted communication channels are core measures. Regular security updates, antivirus software, and network monitoring help prevent breaches and ensure that systems remain secure."
+            },
+            {
+                "title": "Employee Awareness and Training",
+                "text": "Employees are often the first line of defense in data protection. Regular training helps them recognize phishing attempts, handle sensitive data appropriately, and follow security protocols. Awareness campaigns and clear guidelines ensure that data protection becomes an integral part of everyday work routines."
+            },
+            {
+                "title": "Incident Response and Continuous Improvement",
+                "text": "Even with strong safeguards, data breaches can occur. An effective incident response plan includes clear steps for detecting, reporting, and containing security incidents. Post-incident reviews and continuous monitoring allow organizations to learn from mistakes, strengthen security measures, and adapt to evolving threats."
+            }
+        ],
+        "direct_language_version": [
+            {
+                "title": "Introduction to Data Protection",
+                "text": "You are responsible for protecting personal and sensitive information in your work. Data protection is not just about rules—it’s about keeping customer, employee, and business information safe. Follow the laws, like the GDPR, and handle data carefully so you maintain trust and avoid legal trouble."
+            },
+            {
+                "title": "Identifying and Classifying Data",
+                "text": "Know exactly what data you work with and how sensitive it is. Is it personal, like names and addresses, or is it confidential business information? Once you know, apply the right level of protection. Don’t store or share data unless it’s really needed for your job."
+            },
+            {
+                "title": "Access Control and Data Security Measures",
+                "text": "Only access data you need, and make sure others follow the same rule. Use strong passwords, enable two-factor authentication, and keep your software updated. Always use secure, encrypted channels for sending sensitive information."
+            },
+            {
+                "title": "Employee Awareness and Training",
+                "text": "Stay alert for phishing emails, suspicious links, or unusual requests for information. Take all data protection training seriously, and apply what you learn. If you’re unsure about a data request, double-check before acting."
+            },
+            {
+                "title": "Incident Response and Continuous Improvement",
+                "text": "If you notice a data breach or suspect one, report it immediately. Follow the incident response plan so the issue can be contained quickly. Learn from each incident and apply those lessons to improve data protection."
+            }
+        ],
+        "simple_language_version": [
+            {
+                "title": "Introduction to Data Protection",
+                "text": "Data protection means keeping information safe so no one can use it in the wrong way. This includes customer, worker, and company information. If we protect data, we follow the law and people trust us."
+            },
+            {
+                "title": "Identifying and Classifying Data",
+                "text": "We need to know what information we have and how private it is. Some data is personal, like names and addresses. Other data is secret for the company. The more private it is, the more we must protect it."
+            },
+            {
+                "title": "Access Control and Data Security Measures",
+                "text": "Only people who need the data for their job should use it. We protect it with strong passwords, two-step logins, and safe ways to send it. Keeping software updated also helps keep data safe."
+            },
+            {
+                "title": "Employee Awareness and Training",
+                "text": "Everyone should watch out for fake emails or strange requests for information. Training helps us know what to do. If something seems wrong, check before you share any data."
+            },
+            {
+                "title": "Incident Response and Continuous Improvement",
+                "text": "If we think data was stolen or leaked, we must tell the right person fast. Then the problem can be stopped. We should always try to learn from mistakes to make things safer next time."
+            }
+        ]
+    },
+    "test": {
+        "default": [
+            {
+                "title": "Introduction to Environmental Sustainability at Work",
+                "text": "Environmental sustainability in the workplace means reducing the negative impact of business activities on the environment. This includes conserving resources, minimizing waste, and lowering emissions. Companies that adopt sustainable practices not only help protect the planet but also often save costs, improve efficiency, and strengthen their public image."
+            },
+            {
+                "title": "Efficient Use of Resources",
+                "text": "One of the key steps toward sustainability is using energy, water, and raw materials more efficiently. This can involve switching to energy-efficient lighting, reducing water consumption through smart fixtures, or sourcing materials from sustainable suppliers. Regular audits help identify areas where resource use can be improved."
+            },
+            {
+                "title": "Reducing Waste and Promoting Recycling",
+                "text": "Waste reduction begins with avoiding unnecessary materials and packaging. When waste cannot be avoided, recycling and reusing materials is the next best option. Clear recycling stations, staff training, and supplier cooperation make waste management more effective."
+            },
+            {
+                "title": "Encouraging Sustainable Transportation",
+                "text": "Commuting and business travel contribute significantly to carbon emissions. Encouraging employees to use public transport, carpool, cycle, or work remotely can help lower the company’s environmental footprint. Providing bike racks, subsidizing public transport tickets, or using electric company vehicles are practical steps."
+            },
+            {
+                "title": "Building a Culture of Sustainability",
+                "text": "True sustainability comes from integrating eco-friendly thinking into daily routines. This requires awareness campaigns, leadership commitment, and employee involvement in environmental initiatives. When sustainability is part of the workplace culture, long-term change becomes possible."
+            }
+        ]
+    }
+}

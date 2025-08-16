@@ -1,0 +1,52 @@
+[
+  {
+    "input": {
+      "title": "Introduction to Environmental Sustainability at Work",
+      "text": "Environmental sustainability in the workplace means reducing the negative impact of business activities on the environment. This includes conserving resources, minimizing waste, and lowering emissions. Companies that adopt sustainable practices not only help protect the planet but also often save costs, improve efficiency, and strengthen their public image."
+    },
+    "output": {
+      "Title": "Introduction to Environmental Sustainability at Work",
+      "Text": "Taking care of the earth at work means using less, making less trash, and keeping the air clean. When companies do this, they help the planet, save money, work better, and people think they are good."
+    }
+  },
+  {
+    "input": {
+      "title": "Efficient Use of Resources",
+      "text": "One of the key steps toward sustainability is using energy, water, and raw materials more efficiently. This can involve switching to energy-efficient lighting, reducing water consumption through smart fixtures, or sourcing materials from sustainable suppliers. Regular audits help identify areas where resource use can be improved."
+    },
+    "output": {
+      "Title": "Efficient Use of Resources",
+      "Text": "To help the planet, we should not waste things like energy, water, or materials. Use lights that save power, turn off water when not needed, and pick things from good sources. Checking often helps us see where we can do better."
+    }
+  },
+  {
+    "input": {
+      "title": "Reducing Waste and Promoting Recycling",
+      "text": "Waste reduction begins with avoiding unnecessary materials and packaging. When waste cannot be avoided, recycling and reusing materials is the next best option. Clear recycling stations, staff training, and supplier cooperation make waste management more effective."
+    },
+    "output": {
+      "Title": "Reducing Waste and Promoting Recycling",
+      "Text": "Try not to use things you don’t need. If you have waste, put it in the right recycling bin. Teach everyone how to recycle and ask helpers to work together to keep things clean."
+    }
+  },
+  {
+    "input": {
+      "title": "Encouraging Sustainable Transportation",
+      "text": "Commuting and business travel contribute significantly to carbon emissions. Encouraging employees to use public transport, carpool, cycle, or work remotely can help lower the company’s environmental footprint. Providing bike racks, subsidizing public transport tickets, or using electric company vehicles are practical steps."
+    },
+    "output": {
+      "Title": "Encouraging Sustainable Transportation",
+      "Text": "Traveling to work and meetings can make the air dirty. We can help by riding buses, sharing cars, biking, or working from home. Giving bike racks, cheaper bus tickets, or using electric cars are good ways to help the planet."
+    }
+  },
+  {
+    "input": {
+      "title": "Building a Culture of Sustainability",
+      "text": "True sustainability comes from integrating eco-friendly thinking into daily routines. This requires awareness campaigns, leadership commitment, and employee involvement in environmental initiatives. When sustainability is part of the workplace culture, long-term change becomes possible."
+    },
+    "output": {
+      "Title": "Building a Culture of Sustainability",
+      "Text": "To help the planet, everyone at work should think about being kind to nature every day. Leaders, workers, and teams all join in. When everyone helps, we can make good changes last."
+    }
+  }
+]
